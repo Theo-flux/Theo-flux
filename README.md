@@ -17,22 +17,32 @@
   </a>
 </p>
 
+- 🔭 I’m currently working on [Halium Ai](https://github.com/Theo-flux/halium)
+
+- 🌱 I’m currently learning **How to build Immersive websites with jaw-dropping animations from scratch using GSAP, webpack, nodejs, babel**
+
+- 👨‍💻 Feel free to go through my repos.
+
+- 📫 How to reach me **ekunnusitheophilus@gmail.com**
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Tech Stack***
 <p align="left">
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code><img height="50" src="https://cdn.cdnlogo.com/logos/u/81/ubuntu.svg"></code>
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/p/35/python.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/m/92/markdown.svg"></code>
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/g/15/graphql.svg"></code>
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/d/8/docker.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/v/78/vercel.svg"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/r/37/redux.svg"></code>
+  
+  <code> <img height="50" src="https://cdn.cdnlogo.com/logos/v/78/vercel.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"> </code>
   <hr>
 </p>
-
-
 
