@@ -17,8 +17,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Halium Ai](https://github.com/Theo-flux/halium)
-
 - 🌱 I’m currently learning **How to build Immersive websites with jaw-dropping animations from scratch using GSAP, webpack, nodejs, babel**
 
 - 👨‍💻 Feel free to go through my repos.
