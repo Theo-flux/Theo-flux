@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there, 👋🏾</h1>
 
-<p align='center'>My name is Ekunnusi Theophilus. You can call me Theo for short. I am a Software Engineer focused on Web Technologies💙. </p>
+<p align='center'>My name is Ekunnusi Theophilus. You can call me Phil for short.I am a Software Engineer focused on Web Technologies💙. </p>
 
 <p align='center'>
   <a href="https://twitter.com/theoflux_uiux">
