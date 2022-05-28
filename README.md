@@ -19,6 +19,6 @@
 
 [//]: <> (-🌱 I’m currently learning **How to build Immersive websites with jaw-dropping animations from scratch using GSAP, webpack, nodejs, babel**)
 
-[//]: <> (- 👨‍💻 Feel free to go through my repos.)
+- 👨‍💻 Feel free to go through my repos.
 
-[//]: <> (- 📫 How to reach me **ekunnusitheophilus@gmail.com**)
+- 📫 How to reach me **ekunnusitheophilus@gmail.com**
