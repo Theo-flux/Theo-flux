@@ -1,12 +1,12 @@
 # Hello there! 👋🏾
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+Technology+Enthusiast;React+%7C+Vite+%7C+MobX+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=Software+Engineer;Web+Technology+Enthusiast;Typescript+%7C+Python+%7C+Elixir+%7C+Clojure+Developer" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-I'm a Software Engineer focused on modern web technologies. I build robust applications using React, Vite, and state management tools like MobX.
+I'm a Software Engineer focused on modern web technologies. I build robust applications using Typescript, Python, Elixir and Clojure.
 
 <div align="center">
   
