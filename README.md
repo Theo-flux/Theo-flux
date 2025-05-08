@@ -37,9 +37,7 @@ I'm a Software Engineer focused on modern web technologies. I build robust appli
 
 ## 🔭 I'm currently working on
 
-- Building immersive web experiences with stunning animations using GSAP
-- Developing efficient React applications with Vite and MobX
-- Crafting responsive and accessible UI components with ShadcnUI
+- Building an efficient and state of the art Health Applications.
 
 ## 📫 How to reach me
 
