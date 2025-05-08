@@ -37,7 +37,7 @@ I'm a Software Engineer focused on modern web technologies. I build robust appli
 
 ## 🔭 I'm currently working on
 
-- Building an efficient and state of the art Health Applications.
+- Building efficient and state of the art Health Applications.
 
 ## 📫 How to reach me
 
