@@ -28,13 +28,6 @@ I'm a Software Engineer focused on modern web technologies. I build robust appli
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theo-flux&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theo-flux&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🔭 I'm currently working on
 
 - Building efficient and state of the art Health Applications.
