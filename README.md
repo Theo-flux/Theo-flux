@@ -25,22 +25,18 @@ Software Engineer.
 
 </div>
 
-## 🚀 Other Languages
-
-<div align="center">
+<!-- <div align="center">
   
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-EF3E36?style=for-the-badge&logo=phoenix-framework&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
 
-</div>
+</div> -->
 
-## 🔭 I'm currently working on
-
-- Building efficient and state of the art Health Applications.
+## 🔭 I'm currently learning and working on
+- Rust (for distributed systems for Health Applications).
 
 ## 📫 How to reach me
-
-- Email: [tifluse@gmail.com](mailto:tifluse@gmail.com)
+- website: [thetheoflux.dev](https://thetheodflux.dev)
 - Twitter: [@theo_flux](https://twitter.com/theo_flux)
 - LinkedIn: [Theophilus Ekunnusi](https://www.linkedin.com/in/theophilus-ekunnusi-3257a0169)
