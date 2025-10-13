@@ -34,7 +34,7 @@ Software Engineer.
 </div> -->
 
 ## 🔭 I'm currently learning and working on
-- Rust (for distributed systems for Health Applications).
+- Rust (for distributed systems).
 
 ## 📫 How to reach me
 - website: [thetheoflux.dev](https://thetheodflux.dev)
