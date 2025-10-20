@@ -37,6 +37,6 @@ Software Engineer.
 - Rust (for distributed systems).
 
 ## 📫 How to reach me
-- website: [thetheoflux.dev](https://thetheodflux.dev)
+- website: [thetheoflux.dev](https://thetheoflux.dev)
 - Twitter: [@theo_flux](https://twitter.com/theo_flux)
 - LinkedIn: [Theophilus Ekunnusi](https://www.linkedin.com/in/theophilus-ekunnusi-3257a0169)
