@@ -34,7 +34,7 @@ Software Engineer.
 </div> -->
 
 ## 🔭 I'm currently learning and working on
-- Rust (for distributed systems).
+- Experimenting with ways to merge the reliability of Web2, the trustlessness of Web3, and the intelligence of AI.
 
 ## 📫 How to reach me
 - website: [thetheoflux.dev](https://thetheoflux.dev)
