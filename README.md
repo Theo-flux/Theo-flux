@@ -6,15 +6,15 @@
 
 ## About Me
 
-Software Engineer.
+Software Engineer passionate about HealthTech and building technology for social good.
 
-<div align="center">
+<!-- <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/theo_flux)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theophilus-ekunnusi-3257a0169)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tifluse@gmail.com)
 
-</div>
+</div> -->
 
 ## 🚀 Main Languages
 
@@ -22,6 +22,10 @@ Software Engineer.
   
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 </div>
 
